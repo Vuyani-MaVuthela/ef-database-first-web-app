@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "data source=NTT-CBY2PG3; initial catalog=ContosoPizza; integrated security=True;" Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Models -DataAnnotation
